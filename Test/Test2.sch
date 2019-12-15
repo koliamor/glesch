@@ -122,7 +122,7 @@
       </Size>
       <ZIndex>0</ZIndex>
       <ForeColor />
-      <Text>www.abcdefg1.com</Text>
+      <Text>www.abcdefg2.com</Text>
       <HAlign>Left</HAlign>
       <VAlign>Top</VAlign>
       <WordWrap>false</WordWrap>

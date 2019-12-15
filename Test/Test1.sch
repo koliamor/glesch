@@ -161,7 +161,7 @@
         <Width>16</Width>
         <Height>16</Height>
       </ImageSize>
-      <Text>Кнопка1</Text>
+      <Text>Кнопка 1</Text>
       <Action>None</Action>
       <BoundProperty>None</BoundProperty>
       <InCnlNum>0</InCnlNum>

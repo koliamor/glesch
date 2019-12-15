@@ -161,7 +161,7 @@
         <Width>16</Width>
         <Height>16</Height>
       </ImageSize>
-      <Text>Кнопка1</Text>
+      <Text>Кнопка 1</Text>
       <Action>None</Action>
       <BoundProperty>None</BoundProperty>
       <InCnlNum>0</InCnlNum>
@@ -383,7 +383,7 @@
       </Size>
       <ZIndex>0</ZIndex>
       <ForeColor />
-      <Text>www.abcdefg1.com</Text>
+      <Text>www.abcdefg2.com</Text>
       <HAlign>Left</HAlign>
       <VAlign>Top</VAlign>
       <WordWrap>false</WordWrap>
@@ -644,7 +644,7 @@
       </Size>
       <ZIndex>0</ZIndex>
       <ForeColor />
-      <Text>www.abcdefg2.com</Text>
+      <Text>www.abcdefg3.com</Text>
       <HAlign>Left</HAlign>
       <VAlign>Top</VAlign>
       <WordWrap>false</WordWrap>
@@ -683,7 +683,7 @@
         <Width>16</Width>
         <Height>16</Height>
       </ImageSize>
-      <Text>Кнопка3</Text>
+      <Text>Кнопка 3</Text>
       <Action>None</Action>
       <BoundProperty>None</BoundProperty>
       <InCnlNum>0</InCnlNum>
