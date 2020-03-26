@@ -17,6 +17,7 @@ Gluing schemes for Rapid SCADA
 
 Пример использования:
 ###### *python glesch.py -fo Test.sch -fi Test1.sch Test2.sch Test3.sch -dni delete -df Test2.sch -di 10.svg*
+###### *glesch.exe -fo Mnemo.sch -fi MnemoL1.sch MnemoL2.sch -dni delete -df MnemoL2.sch -di Mnemo.svg*
 
 Ключи:
 * -fo  - выходной файл
